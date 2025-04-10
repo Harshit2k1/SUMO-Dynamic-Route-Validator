@@ -71,6 +71,3 @@ Contributions and suggestions are welcome! To propose improvements or additional
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Leverage this dynamic route validator to ensure your passenger vehicle routes are robust and reliable under realistic simulation conditions.
-```
